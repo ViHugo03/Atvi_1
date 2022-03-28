@@ -1,0 +1,25 @@
+.container1{
+    background-color:#ffa500;
+     width: 500px; 
+     height: 500px;  
+}
+.container2{
+    background-color: #adff2f; width: 50%;
+     height: 50%;
+}
+.container3{
+    background-color: rgb(101, 101, 221);
+     width: 50%; 
+     height: 500px;
+}
+.container4{
+    background-color: rgb(255, 0, 0);
+     width: 75%;
+      height: 50%;
+}
+.paragrafo{
+    background-color: rgb(255, 0, 0); 
+    color: white; 
+    font-family: monospace; font-size: 25px; 
+    font-weight:bold;
+}
